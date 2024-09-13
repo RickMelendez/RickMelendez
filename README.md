@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
 <h2><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey,+I'm+Ricardo!;Welcome...;to+my+Github!;" alt="Typing SVG"/></h2>
 </div>
 
 <div align="center">
-    <h2>🚀 About Me</h2>
+    <h2> About Me</h2>
     <p>I'm a Software Engineer and Student at Holberton Coding School PR, </p>
 </div>
 
