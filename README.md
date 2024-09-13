@@ -4,7 +4,7 @@
 
 <div align="center">
     <h2> About Me</h2>
-    <p>I'm a Software Engineer and Student at Holberton Coding School PR, </p>
+    <p>I'm a Software Engineer and Student at Holberton Coding School PR, passionate about learning and growth in the tech industry. While I am working toward becoming a Full Stack Engineer, My journey so far has involved tackling a wide range of programming challenges and exploring different aspects of software development, and I’m excited to continue evolving my skills as I progress. </p>
 </div>
 
 <div align="center">
@@ -20,7 +20,6 @@
   <h2>🚀 Github Commits</h2>
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
     
-![Snake animation](https://raw.githubusercontent.com/RickMelendez/RickMelendez/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
