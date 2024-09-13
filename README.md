@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h2> About Me</h2>
+    <h2> 🚀 About Me</h2>
     <p>I'm a Software Engineer and Student at Holberton Coding School PR, passionate about learning and growth in the tech industry. While I am working toward becoming a Full Stack Engineer, My journey so far has involved tackling a wide range of programming challenges and exploring different aspects of software development, and I’m excited to continue evolving my skills as I progress. </p>
 </div>
 
