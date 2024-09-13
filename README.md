@@ -7,7 +7,7 @@
     <p>I'm a Software Engineer and Student at Holberton Coding School PR, passionate about learning and growth in the tech industry. While I am working toward becoming a Full Stack Engineer, My journey so far has involved tackling a wide range of programming challenges and exploring different aspects of software development, and I’m excited to continue evolving my skills as I progress. </p>
 </div>
 
-<div align="center">
+<div align="left">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 
@@ -23,7 +23,7 @@
 
 </div>
 
-<div align="center">
+<div align="right">
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 
@@ -36,15 +36,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 
-<div align="center">
-<h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
-<p>In the dynamic realm of cloud computing, I am learning to leverage leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I am currently learning:</p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-</div>
 
 <div align="center">
 <h2 align="center" class="section-heading">🔧 Frameworks</h2>
-<p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications.</p>
+<p>Frameworks play a crucial role in my development process, offering the structure and tools I need to build scalable and efficient applications.</p>
 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -53,9 +48,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-<div align="center">
+<div align="right">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+<p>Explore my GitHub stats to see how I balance coding, coffee, and teamwork! Take a dive into the milestones of my tech journey and see how far I've come.</p>
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RickMelendez&theme=github_dark" alt="Ricardo's GitHub Stats"/></td>
