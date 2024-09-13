@@ -7,7 +7,7 @@
     <p>I'm a Software Engineer and Student at Holberton Coding School PR, passionate about learning and growth in the tech industry. While I am working toward becoming a Full Stack Engineer, My journey so far has involved tackling a wide range of programming challenges and exploring different aspects of software development, and I’m excited to continue evolving my skills as I progress. </p>
 </div>
 
-<div align="left">
+<div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 
@@ -23,7 +23,7 @@
 
 </div>
 
-<div align="right">
+<div align="center">
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 
@@ -48,7 +48,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-<div align="right">
+<div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
 <p>Explore my GitHub stats to see how I balance coding, coffee, and teamwork! Take a dive into the milestones of my tech journey and see how far I've come.</p>
  <table align="center" width="100%" height="100%" >
