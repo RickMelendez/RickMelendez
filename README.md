@@ -14,8 +14,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rickmelendez001@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)]()
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https:)
-
-![Views](https://komarev.com/ghpvc/?username=RickMelendez&style=for-the-badge)
 </div>
 
 <div align="center">
