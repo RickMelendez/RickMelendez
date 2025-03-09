@@ -1,0 +1,28 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs once a day at midnight UTC
+
+  workflow_dispatch: # Allows manual execution
+
+jobs:
+  build:
+    name: Generate Snake Animation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: RickMelendez
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Push Snake Animation
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Updated GitHub contribution snake animation"
+          add: "dist/github-contribution-grid-snake.svg"
+          push: true
