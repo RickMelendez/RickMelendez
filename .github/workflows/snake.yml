@@ -4,14 +4,14 @@ on:
   schedule:
     - cron: "0 0 * * *"  # Runs once a day at midnight UTC
 
-  workflow_dispatch: # Allows manual execution
+  workflow_dispatch:  # Allows manual execution
 
 jobs:
-  build:
+  generate:
     name: Generate Snake Animation
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Generate Snake
@@ -20,9 +20,10 @@ jobs:
           github_user_name: RickMelendez
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake Animation
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Updated GitHub contribution snake animation"
-          add: "dist/github-contribution-grid-snake.svg"
-          push: true
+      - name: Commit & Push Snake Animation
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake contribution graph"
+          git push
