@@ -49,7 +49,7 @@
 
 ---
 
-### 🎮 **GitHub Contribution Snake Game**
+### 🎮 **GitHub Snake Game**
 <p align="center">
   <img src="https://github.com/RickMelendez/RickMelendez/blob/output/github-contribution-grid-snake.svg" />
 </p>
