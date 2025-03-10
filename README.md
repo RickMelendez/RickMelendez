@@ -49,13 +49,6 @@
 
 ---
 
-### 🎮 **GitHub Snake Game**
-<p align="center">
-  <img src="https://github.com/RickMelendez/RickMelendez/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 🌍 **Where to Find Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/ricardosanchez01/" target="_blank">
