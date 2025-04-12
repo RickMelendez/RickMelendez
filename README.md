@@ -56,4 +56,7 @@
   <a href="mailto:rickmelendez001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+    <a href="https://drive.google.com/file/d/1tLYq6GEpl_MVDbsEQtIpT3xuxK1g5DHh/view?usp=drive_link/file/d/1rPoC1zyzDIFNnHjFCEKx4kRjZhRT4rdJ/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-%23FF5722.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
