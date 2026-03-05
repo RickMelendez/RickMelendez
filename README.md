@@ -16,7 +16,7 @@ Full Stack Developer currently working at **Evertec**, building **serverless fin
 
 I focus on designing scalable backend systems, APIs, and cloud architectures used in banking integrations.
 
-My work includes building **Lambda-based middleware services**, implementing **clean architecture patterns**, writing **unit tests**, and ensuring **observability, security compliance, and performance monitoring** in production systems.
+My work includes building **Lambda-based middleware services**, implementing **clean architecture patterns**, and ensuring **observability, security compliance, and performance monitoring** in production systems.
 
 ---
 
