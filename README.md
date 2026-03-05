@@ -47,6 +47,7 @@ My work includes building **Lambda-based middleware services**, implementing **c
 ![API Gateway](https://img.shields.io/badge/API%20Gateway-%23FF4F8B.svg?style=for-the-badge)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF4F8B.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![CodeCommit](https://img.shields.io/badge/AWS%20CodeCommit-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
