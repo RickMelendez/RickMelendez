@@ -24,6 +24,7 @@ My work includes building **Lambda-based middleware services**, implementing **c
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/Typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300008B.svg?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
