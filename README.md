@@ -12,12 +12,13 @@
 
 # 👨‍💻 About Me
 
-Full Stack Developer currently working at **Evertec**, building **serverless financial services** using **AWS and TypeScript**.
+Full Stack Developer currently working at Evertec, building serverless financial services using AWS, TypeScript, and Node.js.
 
-I focus on designing scalable backend systems, APIs, and cloud architectures used in banking integrations.
+I specialize in designing scalable backend systems, APIs, cloud architectures, and middleware services for banking integrations.
 
-My work includes building **Lambda-based middleware services**, implementing **clean architecture patterns**, and ensuring **observability, security compliance, and performance monitoring** in production systems.
+My work includes building AWS Lambda-based services, implementing clean architecture patterns, developing and integrating APIs, and focusing on observability, security, testing, and production performance.
 
+I'm also passionate about AI engineering, building intelligent applications that combine modern AI capabilities with practical software systems.
 ---
 
 # 💻 Programming Languages
@@ -36,7 +37,7 @@ My work includes building **Lambda-based middleware services**, implementing **c
 
 ## Backend
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ## Frontend
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -45,35 +46,47 @@ My work includes building **Lambda-based middleware services**, implementing **c
 ## Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-%23FF4F8B.svg?style=for-the-badge)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF4F8B.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![CodeCommit](https://img.shields.io/badge/AWS%20CodeCommit-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-%23FF4F8B.svg?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![AWS CodeCommit](https://img.shields.io/badge/CodeCommit-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-%234053D6.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
+## APIs & Integration
+
+![REST API](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+## Authentication
+
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-%23EB5424.svg?style=for-the-badge&logo=oauth&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google%20OAuth-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+
+## Testing
+
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
 ## Tools
+
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-## Testing
-![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
 ## Hosting & Deployment
+
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
-
-## Authentication & APIs
-![REST API](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens)
-![Google OAuth](https://img.shields.io/badge/Google%20OAuth-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
